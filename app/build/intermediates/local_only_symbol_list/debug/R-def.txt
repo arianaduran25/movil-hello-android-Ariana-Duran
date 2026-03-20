@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id action_list_to_detail
+id buttonAddUser
+id buttonBack
+id nav_graph
+id nav_host_fragment
+id progressBar
+id recyclerView
+id textViewAge
+id textViewEmail
+id textViewId
+id textViewName
+id textViewTitle
+id textViewUserCount
+id userDetailFragment
+id userListFragment
+layout activity_main
+layout fragment_user_detail
+layout fragment_user_list
+layout item_user
+navigation nav_graph
+string app_name
+string hello_blank_fragment
+style Theme.HelloAndroid

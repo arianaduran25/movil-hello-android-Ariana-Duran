@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.avila.helloandroid.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.avila.helloandroid.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.avila.helloandroid.app-merged_res-48:/layout_fragment_user_list.xml.flat",
+        "source": "com.avila.helloandroid.app-main-50:/layout/fragment_user_list.xml"
+    },
+    {
+        "merged": "com.avila.helloandroid.app-merged_res-48:/layout_item_user.xml.flat",
+        "source": "com.avila.helloandroid.app-main-50:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.avila.helloandroid.app-merged_res-48:/navigation_nav_graph.xml.flat",
+        "source": "com.avila.helloandroid.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.avila.helloandroid.app-merged_res-48:/layout_fragment_user_detail.xml.flat",
+        "source": "com.avila.helloandroid.app-main-50:/layout/fragment_user_detail.xml"
+    }
+]
